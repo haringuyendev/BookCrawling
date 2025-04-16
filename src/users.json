@@ -1,0 +1,14 @@
+{
+    "Hainguyenhoang": {
+        "username": "Hainguyenhoang",
+        "hashed_password": "$2b$12$nt3bt4JHmnypZ1C5NHWxCeAT3IJhImzBjF5X3Ah4pInmSGKm/2u92"
+    },
+    "haideptrai": {
+        "username": "haideptrai",
+        "hashed_password": "$2b$12$B4/e34/wRrNDy8C1xK4AaOeZrE7MMAlP5NhqmbWeHECv5A15vnkRK"
+    },
+    "hainguyenhoang": {
+        "username": "hainguyenhoang",
+        "hashed_password": "$2b$12$Kg.dJi0RXS9NgjbLNak2su948bJ7YQxAA33HOfCwkvfmjBPd4doge"
+    }
+}
