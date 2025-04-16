@@ -127,8 +127,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-html_backup/
-data/
+
 .DS_store
 # Environments
 .env
