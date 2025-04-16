@@ -123,7 +123,7 @@ Tại đây, bạn có thể thử nghiệm các endpoint API một cách trực
 
 ## ✅ Lưu ý
 
-- Đảm bảo Python 3.8 trở lên đã được cài đặt.
+- Đảm bảo Python 3.12 trở lên đã được cài đặt.
 - Không push thư mục `.venv` và file `.env` lên Git. Hãy sử dụng `.gitignore`.
 - Kiểm tra file `books.json` sau khi crawl để đảm bảo dữ liệu đã được lưu đúng.
 
