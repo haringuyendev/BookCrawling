@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,7 +129,6 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
 env/
 venv/
 ENV/
@@ -173,6 +171,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-=======
-.venv
->>>>>>> 3289454 (first commit)
